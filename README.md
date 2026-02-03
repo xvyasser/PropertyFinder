@@ -1,7 +1,7 @@
 # PropertyFinder real estate market: End-to-End Analytics Project
 *This project provides a production-ready business intelligence solution for analyzing the Egyptian real estate market on PropertyFinder website. It combines a sophisticated SQL Server data warehouse with a comprehensive Power BI dashboard to deliver actionable insights*
 
-This project uses the **[Egyptian Real Estate Listings On PropertyFinder Dataset]([https://www.kaggle.com/datasets/crainbramp/steam-dataset-2025-multi-modal-gaming-analytics])**
+This project uses the **[Egyptian Real Estate Listings On PropertyFinder Dataset](https://www.kaggle.com/datasets/hassankhaled21/egyptian-real-estate-listings)**
 
 ## 🧠 Project Overview
 
