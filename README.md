@@ -6,14 +6,12 @@ This project uses the **[Egyptian Real Estate Listings On PropertyFinder Dataset
 ## 🧠 Project Overview
 
 This repository contains **all code, views, and documentation** for:
-1. **Database creation, loading, cleaning, transforming & analytical view design** in SQL Server
-2. **Power BI dashboard development**
 
-1. 🏗️ Complete ETL Pipeline - Automated data extraction, transformation, and loading
-2. 📈 Interactive Dashboards - 4 comprehensive Power BI pages
-3. 🗄️ Star Schema Design - Optimized data warehouse with fact and dimension tables
-4. 🎯 Pre-built Analytics - Created Using DAX, views and aggregation tables
-5. 🚀 Performance Optimized - Using indexed queries
+1. 🏗️ *Complete ETL Pipeline* - Automated data extraction, transformation, and loading
+2. 📈 *Interactive Dashboards* - 4 comprehensive Power BI pages
+3. 🗄️ *Star Schema Design* - Optimized data warehouse with fact and dimension tables
+4. 🎯 *Pre-built Analytics* - Created Using DAX, views and aggregation tables
+5. 🚀 *Performance Optimized* - Using indexed queries
 
 ## 🛠️ Project Workflow
 
