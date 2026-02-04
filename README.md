@@ -58,7 +58,7 @@ Designed a star-schema–inspired model with:
   - Property Type Analytics
   - Location Analysis
   - Price Analysis
- Implemented DAX measures
+- Implemented DAX measures for analysis and added new columns for price range and budget using Power Query
 
 > 📊 **Final Output**: `PropertyFinder Dashboard` (included)
 
